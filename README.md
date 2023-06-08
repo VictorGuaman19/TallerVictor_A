@@ -1,2 +1,14 @@
-# TallerVictor_A
-Taller de Entorno de Desarrollo
+# Taller Nro. 1 Entorno de desarrollo
+
+-Nombre: Victor Guaman
+
+
+## Descripcion
+
+## Funcionamiento
+
+
+
+
+
+
